@@ -23,7 +23,7 @@ class ContactPage extends React.Component {
           </span>
         </h1> */}
         <p>Seeker of truth, who is on the path to becoming a mystic.</p>
-
+        
         <Link to="/">
           <Button marginTop="85px">Go Home</Button>
         </Link>
