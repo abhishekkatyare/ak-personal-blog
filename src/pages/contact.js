@@ -32,4 +32,4 @@ class ContactPage extends React.Component {
   }
 }
 
-export default AboutPage
+export default ContactPage
